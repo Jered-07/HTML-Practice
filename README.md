@@ -1,1 +1,1 @@
-Hola compañeritos
+Hola compañeros, esto es una prueba del uso de la paltaforma Github 
